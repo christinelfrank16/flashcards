@@ -1,0 +1,24 @@
+.card {
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+  border: 2px solid darkred;
+  vertical-align: top;
+}
+
+.card-text {
+  display: none;
+}
+
+.card-title {
+  cursor: pointer;
+  color: darkgreen;
+}
+
+.card-title:hover {
+  text-decoration: underline;
+}
+
+.css, .html {
+  display: none;
+}
